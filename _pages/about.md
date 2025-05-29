@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Weijie Yu is an assistant professor at School of Information Technology & Management, University of International Business and Economics. He received Ph.D. degree in Computer Science from Renmin University of China in 2023 under supervising by Prof. Ji-Rong Wen and Jun Xu. Before that, He get a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 
-我的研究领域包括：
+His current research is focused on Information Retrieval, Recommender System, and Legal Intelligence.
+ <a href='https://scholar.google.com/citations?user=bSXRkNcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+
+<!-- 我的研究领域包括：
 - 仪器仪表
 - 机械工程
 - 电磁无损检测
 - 漏磁检测
 - 涡流检测
 - 磁传感器
-- 无损检测装备开发
+- 无损检测装备开发 -->
   
 
 
