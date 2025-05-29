@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weijie Yu's homepage" 
-description              : "Weijie Yu's homepage"
+description              : "yu at uibe dot edu dot cn"
 repository               : "ruc-wjyu/ruc-wjyu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weijie Yu"
+  name             : "Weijie Yu (俞蔚捷)"
   avatar           : "images/avatar.jpg"
   bio              : "Assistant Professor at School of Information Technology & Management, University of International Business and Economics"
   location         : "Beijing"
