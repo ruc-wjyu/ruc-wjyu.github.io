@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weijie Yu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
+  avatar           : "images/avatar.jpg"
+  bio              : "Assistant Professor at School of Information Technology & Management, University of International Business and Economics"
   location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 

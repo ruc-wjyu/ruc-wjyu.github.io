@@ -47,23 +47,18 @@ His current research is focused on Information Retrieval, Recommender System, an
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/maps.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/maps.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<!-- -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)   -->
 - Weicong Qin, Yi Xu, `Weijie Yu`, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
 [[Arxiv]](https://arxiv.org/abs/2503.01711) 
-<!-- [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/citalaw.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/citalaw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 - Kepu Zhang, `Weijie Yu`, Sunhao Dai, Jun Xu (ACL 2025 Findings)
 [[Arxiv]](https://arxiv.org/abs/2412.14556) 
-<!-- [[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091)  -->
-<!-- [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) -->
+
 
 <!-- <!-- </div> -->
 <!-- </div>
