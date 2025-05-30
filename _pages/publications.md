@@ -22,7 +22,7 @@ permalink: /publications/
     <td><strong>ACL 2025</strong></td>
     <td>
       <strong>CitaLaw: Enhancing LLM with Citations in Legal Domain</strong><br>
-      Kepu Zhang, <strong>Weijie Yu</strong></strong><sup>†</sup>, Sunhao Dai, Jun Xu<br>
+      Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Sunhao Dai, Jun Xu<br>
       [<a href="https://arxiv.org/abs/2412.14556" target="_blank">Paper</a>]
     </td>
   </tr>
@@ -97,7 +97,17 @@ permalink: /publications/
       <strong>Uncovering chatgpt’s capabilities in recommender systems
     </strong><br>
       Sunhao Dai, Ninglu Shao, Haiyuan Zhao, <strong>Weijie Yu</strong>, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu<br>
-      [<a href="https://arxiv.org/pdf/2305.02182" target="_blank">Paper</a>] 
+      [<a href="https://arxiv.org/pdf/2305.02182" target="_blank">Paper</a>] [<a href="https://github.com/rainym00d/LLM4RS" target="_blank">Code</a>]
+    </td>
+  </tr>
+
+ <tr>
+    <td><strong>COLING 2022</strong></td>
+    <td>
+      <strong>Optimal partial transport based sentence selection for long-form document matching
+    </strong><br>
+      <strong>Weijie Yu</strong>, Liang Pang, Jun Xu, Bing Su, Zhenhua Dong, Ji-Rong Wen<br>
+      [<a href="https://aclanthology.org/2022.coling-1.208" target="_blank">Paper</a>] [<a href="https://github.com/ruc-wjyu/OPT-Match" target="_blank">Code</a>]
     </td>
   </tr>
 
@@ -107,7 +117,7 @@ permalink: /publications/
       <strong>Explainable legal case matching via inverse optimal transport-based rationale extraction
     </strong><br>
       <strong>Weijie Yu</strong>, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen<br>
-      [<a href="https://arxiv.org/pdf/2207.04182" target="_blank">Paper</a>] 
+      [<a href="https://arxiv.org/pdf/2207.04182" target="_blank">Paper</a>] [<a href="https://github.com/ruc-wjyu/IOT-Match" target="_blank">Code</a>]
     </td>
   </tr>
 
