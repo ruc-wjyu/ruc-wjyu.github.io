@@ -17,11 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 1.2em; line-height: 1.6;">
+<p>
 Weijie Yu is an assistant professor at School of Information Technology & Management, University of International Business and Economics. He received Ph.D. degree in Computer Science from Renmin University of China in 2023 under supervising by Prof. <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Jun Xu</a>. Before that, He got a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 . Before that, He get a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+</p>
 
+<p>
 His current research is focused on Information Retrieval, Recommender System, and Legal Intelligence.
- <a href='https://scholar.google.com/citations?user=bSXRkNcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+<span style="color:#996600; font-weight: 600;">
+I am actively seeking self-motivated students for M.S and intern positions. If you’re interested, please email me with your CV, thanks!
+</span>
+ </p>
 </div>
 
 <!-- 我的研究领域包括：
@@ -45,7 +51,7 @@ His current research is focused on Information Retrieval, Recommender System, an
 
 <span class='anchor' id='-lwzl'></span>
 
-# Publications
+# Selected Publications
 
 ### 英文
 ---
@@ -63,6 +69,23 @@ His current research is focused on Information Retrieval, Recommender System, an
 </div>
 </div>
 
+# Activities
+<!-- - Conference Reviewer for NeurIPS, SIGIR, CIKM, etc
+- Journal Reviewer for ACM TOIS, IEEE TNNLS, etc -->
+<table>
+  <tr>
+    <td><strong>PC Member</strong></td>
+    <td>
+      SIGIR (2023-), CIKM (2023-), SIGIR-AP (2023-),<br>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Journal Reviewer</strong></td>
+    <td>
+      ACM TOIS, IEEE TNNLS, Neurocomputing
+    </td>
+  </tr>
+</table>
 
 
 <!-- ### 中文
