@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weijie Yu (俞蔚捷)"
-  # avatar           : "images/avatar_new1.jpg"
-  # 这样publications页面才能显示头像，不然就是静态主页展示
-  avatar: "{{ '/images/avatar_new1.jpg' | relative_url }}"
+  avatar           : "images/avatar_new1.jpg"
+  # # 这样publications页面才能显示头像，不然就是静态主页展示
+  # avatar:   "{{ '/images/avatar_new1.jpg' | relative_url }}"
 
   bio              : "Assistant Professor at School of Information Technology & Management, University of International Business and Economics"
   location         : "Beijing"
