@@ -51,14 +51,14 @@ His current research is focused on Information Retrieval, Recommender System, an
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/maps.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Weicong Qin, Yi Xu, `Weijie Yu<sup>*</sup>`, Chenglei Shen, Ming He<sup>*</sup>, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
+- Weicong Qin, Yi Xu, `Weijie Yu`<sup>*</sup>, Chenglei Shen, Ming He<sup>*</sup>, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
 [[Arxiv]](https://arxiv.org/abs/2503.01711) 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/citalaw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Kepu Zhang, `Weijie Yu<sup>*</sup>`, Sunhao Dai, Jun Xu. CitaLaw: Enhancing LLM with Citations in Legal Domain. (ACL 2025 Findings)
+- Kepu Zhang, `Weijie Yu`<sup>*</sup>, Sunhao Dai, Jun Xu. CitaLaw: Enhancing LLM with Citations in Legal Domain. (ACL 2025 Findings)
 [[Arxiv]](https://arxiv.org/abs/2412.14556) 
 </div>
 </div>
