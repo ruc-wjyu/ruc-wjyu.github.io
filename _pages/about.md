@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 1.2em; line-height: 1.6;">
 <p>
-Hi there! I am a tenure-track assistant professor at School of Information Technology & Management, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by Prof. <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Jun Xu</a>. Before that, I got a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+Hi there! I am a tenure-track assistant professor at School of Information Technology & Management, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by Prof. <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Jun Xu</a>. Before that, I got the M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 </p>
 
 <p>
