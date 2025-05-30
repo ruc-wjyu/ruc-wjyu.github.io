@@ -13,7 +13,7 @@ permalink: /publications/
     <td><strong>ACL 2025</strong></td>
     <td>
       <strong>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</strong><br>
-      Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu<br>
+      Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Chenglei Shen, Ming He<sup>†</sup>, Jianping Fan, Xiao Zhang, Jun Xu<br>
       [<a href="https://arxiv.org/abs/2503.01711" target="_blank">Paper</a>] [<a href="https://github.com/E-qin/MAPS" target="_blank">Code</a>]
     </td>
   </tr>
