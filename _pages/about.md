@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 1.2em; line-height: 1.6;">
-Weijie Yu is an assistant professor at School of Information Technology & Management, University of International Business and Economics. He received Ph.D. degree in Computer Science from Renmin University of China in 2023 under supervising by Prof. Ji-Rong Wen and Jun Xu. Before that, He get a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+Weijie Yu is an assistant professor at School of Information Technology & Management, University of International Business and Economics. He received Ph.D. degree in Computer Science from Renmin University of China in 2023 under supervising by Prof. <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Jun Xu</a>. Before that, He got a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+. Before that, He get a M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 
 His current research is focused on Information Retrieval, Recommender System, and Legal Intelligence.
  <a href='https://scholar.google.com/citations?user=bSXRkNcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
@@ -50,14 +51,14 @@ His current research is focused on Information Retrieval, Recommender System, an
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/maps.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Weicong Qin, Yi Xu, `Weijie Yu`, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
+- Weicong Qin, Yi Xu, `Weijie Yu<sup>*</sup>`, Chenglei Shen, Ming He<sup>*</sup>, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
 [[Arxiv]](https://arxiv.org/abs/2503.01711) 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/citalaw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Kepu Zhang, `Weijie Yu`, Sunhao Dai, Jun Xu. CitaLaw: Enhancing LLM with Citations in Legal Domain. (ACL 2025 Findings)
+- Kepu Zhang, `Weijie Yu<sup>*</sup>`, Sunhao Dai, Jun Xu. CitaLaw: Enhancing LLM with Citations in Legal Domain. (ACL 2025 Findings)
 [[Arxiv]](https://arxiv.org/abs/2412.14556) 
 </div>
 </div>
