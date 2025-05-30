@@ -22,7 +22,7 @@ Hi there! I am a tenure-track assistant professor at School of Information Techn
 </p>
 
 <p>
-My current research is focused on Information Retrieval, Recommender System, and Legal Intelligence.
+My research interests lie at Information Retrieval, Recommender System, and Legal Intelligence.
 <span style="color:#996600; font-weight: 600;">
 I am actively seeking self-motivated students for M.S. and intern positions. If you’re interested, please email me with your CV, thanks!
 </span>
