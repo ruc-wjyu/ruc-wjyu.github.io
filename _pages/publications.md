@@ -4,14 +4,27 @@ title: "Publications"
 permalink: /publications/
 ---
 
----
-title: "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy"
-collection: publications
-permalink: /publication/sigir2024/
-date: 2024-07-01
-venue: "SIGIR"
-authors: "Changshuo Zhang, Sirui Chen, Xiao Zhang, Sunhao Dai, Weijie Yu, Jun Xu"
-paperurl: "https://arxiv.org/pdf/2407.12345.pdf"
-codeurl: "https://github.com/xxx/sigir2024"
-doi: "https://doi.org/..."
----
+<h2>2025</h2>
+
+<p>
+  <strong>SIGIR 2025</strong><br>
+  <strong>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</strong><br>
+  Weicong Qin, Yi Xu, <strong>Weijie Yu</strong>, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu<br>
+  [<a href="https://arxiv.org/abs/2503.01711" target="_blank">Paper</a>]  
+</p>
+
+<p>
+  <strong>SIGIR 2025</strong><br>
+  <strong>CitaLaw: Enhancing LLM with Citations in Legal Domain</strong><br>
+  Kepu Zhang, <strong>Weijie Yu</strong>, Sunhao Dai, Jun Xu<br>
+  [<a href="https://arxiv.org/abs/2412.14556" target="_blank">Paper</a>]  
+</p>
+
+<h2>2024</h2>
+
+<p>
+  <strong>ICLR 2024</strong><br>
+  <strong>Your Paper Title</strong><br>
+  Your Authors<br>
+  [<a href="#">Paper</a>] [<a href="#">Code</a>]
+</p>
