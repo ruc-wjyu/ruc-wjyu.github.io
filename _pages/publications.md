@@ -8,6 +8,26 @@ permalink: /publications/
 (* Equal contribution. † Corresponding author.)
 
 <table>
+  <tr>
+    <td><strong>RecSys 2025</strong></td>
+    <td>
+      <strong>MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation</strong><br>
+      Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Chenglei Shen, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br>
+      [<a href="https://arxiv.org/pdf/2409.06377" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>RecSys 2025</strong></td>
+    <td>
+      <strong>Paragon: Parameter Generation for Controllable  Multi-Task Recommendation</strong>
+      <br>
+      Chenglei Shen, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
+      <br>
+      [<a href="https://arxiv.org/pdf/2410.10639" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
 
   <tr>
     <td><strong>ACL 2025</strong></td>

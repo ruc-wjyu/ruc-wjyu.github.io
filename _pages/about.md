@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 1.2em; line-height: 1.6;">
 <p>
-Hi there! I am a tenure-track assistant professor at School of Information Technology & Management, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by Prof. <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Prof. Jun Xu</a>. Before that, I got the M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+Hi there! I am an assistant professor at School of Information Technology & Management, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Prof. Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Prof. Jun Xu</a>. Before that, I got the M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 </p>
 
 <p>
@@ -43,8 +43,7 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <span class='anchor' id='-xl'></span>
 
 #  News
-<!-- - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博  -->
-<!-- - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
+- [07/2025] Two papers have been accepted by RecSys 2025.
 - [05/2025] Two papers have been accepted by ACL 2025.
 - [01/2025] One paper has been accepted by Information Sciences.
 
@@ -54,6 +53,14 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 # Selected Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2025</div><img src='images/more.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Weicong Qin, Yi Xu, `Weijie Yu`<sup>†</sup>, Chenglei Shen, Xiao Zhang, Ming He, Jianping Fan, Jun Xu. MoRE: A Mixture of Reflectors Framework for Large Language
+Model-Based Sequential Recommendation (RecSys 2025 Spotlight Oral)
+[[Arxiv]](https://arxiv.org/pdf/2409.06377) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/maps.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Weicong Qin, Yi Xu, `Weijie Yu`<sup>†</sup>, Chenglei Shen, Ming He<sup>†</sup>, Jianping Fan, Xiao Zhang, Jun Xu. MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment (ACL 2025 Main Conference)
