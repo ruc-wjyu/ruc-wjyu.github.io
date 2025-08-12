@@ -9,6 +9,33 @@ permalink: /publications/
 
 <table>
   <tr>
+    <td><strong>CIKM 2025</strong></td>
+    <td>
+      <strong>SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models</strong><br>
+      Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Zhongxiang Sun, Jun Xu<br>
+      [<a href="https://arxiv.org/pdf/2504.04042" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CIKM 2025</strong></td>
+    <td>
+      <strong>PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization</strong><br>
+      Kepu Zhang, Teng Shi, <strong>Weijie Yu</strong><sup>†</sup>, Jun Xu<br>
+      [<a href="https://www.arxiv.org/pdf/2508.07342" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CIKM 2025</strong></td>
+    <td>
+      <strong>Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation</strong><br>
+      Teng Shi, <strong>Weijie Yu</strong>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<sup>†</sup><br>
+      [<a href="https://arxiv.org/pdf/2508.04145" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>RecSys 2025</strong></td>
     <td>
       <strong>MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation</strong><br>
