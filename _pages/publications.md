@@ -30,7 +30,7 @@ permalink: /publications/
     <td><strong>CIKM 2025</strong></td>
     <td>
       <strong>Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation</strong><br>
-      Teng Shi, <strong>Weijie Yu</strong>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<sup>†</sup><br>
+      Teng Shi, <strong>Weijie Yu</strong><sup>†</sup>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br>
       [<a href="https://arxiv.org/pdf/2508.04145" target="_blank">Paper</a>] 
     </td>
   </tr>
