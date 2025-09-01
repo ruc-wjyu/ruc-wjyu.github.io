@@ -9,6 +9,33 @@ permalink: /publications/
 
 <table>
   <tr>
+    <td><strong>EMNLP 2025</strong></td>
+    <td>
+      <strong>Similarity = Value? Consultation Value Assessment and Alignment forPersonalized Search</strong><br>
+      Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Teng Shi, Chenglei Shen, Ming He<sup>†</sup>, Jianping Fan, Xiao Zhang, Jun Xu<br>
+      [<a href="https://arxiv.org/pdf/2506.14437" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>EMNLP 2025</strong></td>
+    <td>
+      <strong>Legal Mathematical Reasoning with LLMs: Procedural Alignment throughTwo-Stage Reinforcement Learning</strong><br>
+      Kepu Zhang, Guofu Xie, <strong>Weijie Yu</strong><sup>†</sup>, Mingyue Xu, Xu Tang, Yaxin Li, Jun Xu<br>
+      [<a href="https://arxiv.org/pdf/2504.02590" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>EMNLP 2025</strong></td>
+    <td>
+      <strong>Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning</strong><br>
+      Kepu Zhang, Haoyue Yang, Xu Tang, <strong>Weijie Yu</strong><sup>†</sup>, Jun Xu<br>
+      [<a href="https://arxiv.org/abs/2412.14588" target="_blank">Paper</a>] 
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>CIKM 2025</strong></td>
     <td>
       <strong>SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models</strong><br>

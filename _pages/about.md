@@ -47,7 +47,6 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 - [08/2025] Three papers have been accepted by CIKM 2025.
 - [07/2025] Two papers have been accepted by RecSys 2025.
 - [05/2025] Two papers have been accepted by ACL 2025.
-- [01/2025] One paper has been accepted by Information Sciences.
 
 
 <span class='anchor' id='-lwzl'></span>
@@ -58,7 +57,7 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/syler_model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Kepu Zhang, `Weijie Yu`<sup>†</sup>, Zhongxiang Sun, Jun Xu. SyLeR: A Framework for Explicit Syllogistic Legal Reasoning
-in Large Language Models
+in Large Language Models (CIKM 2025)
 [[Arxiv]](https://arxiv.org/pdf/2504.04042) 
 </div>
 </div>
