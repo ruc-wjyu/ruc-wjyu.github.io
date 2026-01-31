@@ -43,6 +43,7 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <span class='anchor' id='-xl'></span>
 
 #  News
+- [01/2026] One paper has been accepted by ICASSP 2026.
 - [08/2025] Three papers have been accepted by EMNLP 2025.
 - [08/2025] Three papers have been accepted by CIKM 2025.
 - [07/2025] Two papers have been accepted by RecSys 2025.

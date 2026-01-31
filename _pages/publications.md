@@ -9,6 +9,14 @@ permalink: /publications/
 
 <table>
   <tr>
+    <td><strong>ICASSP 2026</strong></td>
+    <td>
+      <strong>TUNING-FREE FIDELITY-CONSTRAINED DECODING FOR FAITHFUL LEGAL REASONING WITH OPEN-DOMAIN LARGE LANGUAGE MODELS</strong><br>
+      Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Jun Xu<br>
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>EMNLP 2025</strong></td>
     <td>
       <strong>Similarity = Value? Consultation Value Assessment and Alignment forPersonalized Search</strong><br>
