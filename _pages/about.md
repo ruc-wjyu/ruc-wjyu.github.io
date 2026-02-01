@@ -90,6 +90,12 @@ Model-Based Sequential Recommendation (RecSys 2025 Spotlight Oral)
 - Journal Reviewer for ACM TOIS, IEEE TNNLS, etc -->
 <table>
   <tr>
+    <td><strong>Area Chair</strong></td>
+    <td>
+      ACL ARR<br>
+    </td>
+  </tr>
+  <tr>
     <td><strong>PC Member</strong></td>
     <td>
       SIGIR (2023-), CIKM (2023-), SIGIR-AP (2023-), etc<br>
@@ -98,7 +104,7 @@ Model-Based Sequential Recommendation (RecSys 2025 Spotlight Oral)
   <tr>
     <td><strong>Journal Reviewer</strong></td>
     <td>
-      ACM TOIS, IEEE TNNLS, Neurocomputing, etc
+      ACM TOIS, IPM, IEEE TNNLS, Neurocomputing, etc
     </td>
   </tr>
 </table>
