@@ -17,6 +17,14 @@ permalink: /publications/
   </tr>
 
   <tr>
+    <td><strong>ACM TOIS</strong></td>
+    <td>
+      <strong>Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</strong><br>
+      Chenglei Shen, Yi Zhan, <strong>Weijie Yu</strong>, Xiao Zhang<sup>†</sup>, Jun Xu<br>
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>EMNLP 2025</strong></td>
     <td>
       <strong>Similarity = Value? Consultation Value Assessment and Alignment forPersonalized Search</strong><br>
