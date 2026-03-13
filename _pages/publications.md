@@ -17,14 +17,6 @@ permalink: /publications/
   </tr>
 
   <tr>
-    <td><strong>ICASSP 2026</strong></td>
-    <td>
-      <strong>TUNING-FREE FIDELITY-CONSTRAINED DECODING FOR FAITHFUL LEGAL REASONING WITH OPEN-DOMAIN LARGE LANGUAGE MODELS</strong><br>
-      Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Jun Xu<br>
-    </td>
-  </tr>
-
-  <tr>
     <td><strong>ACM TOIS</strong></td>
     <td>
       <strong>Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</strong><br>
