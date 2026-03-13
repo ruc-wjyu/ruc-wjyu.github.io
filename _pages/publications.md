@@ -9,6 +9,14 @@ permalink: /publications/
 
 <table>
   <tr>
+    <td><strong>IPM</strong></td>
+    <td>
+      <strong>Empowering Open-Domain LLMs for Legal Document Correction via Legal Knowledge Integration and Decoding Constraints</strong><br>
+      Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Zhongxiang Sun, Weicong Qin, Jun Xu, Ji-Rong Wen<br>
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>ICASSP 2026</strong></td>
     <td>
       <strong>TUNING-FREE FIDELITY-CONSTRAINED DECODING FOR FAITHFUL LEGAL REASONING WITH OPEN-DOMAIN LARGE LANGUAGE MODELS</strong><br>
