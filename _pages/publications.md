@@ -25,7 +25,7 @@ permalink: /publications/
   </tr>
 
   <tr>
-    <td><strong>EMNLP 2025</strong></td>
+    <td><strong>EMNLP 2025 Main</strong></td>
     <td>
       <strong>Similarity = Value? Consultation Value Assessment and Alignment forPersonalized Search</strong><br>
       Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Teng Shi, Chenglei Shen, Ming He<sup>†</sup>, Jianping Fan, Xiao Zhang, Jun Xu<br>
@@ -34,7 +34,7 @@ permalink: /publications/
   </tr>
 
   <tr>
-    <td><strong>EMNLP 2025</strong></td>
+    <td><strong>EMNLP 2025 Findings</strong></td>
     <td>
       <strong>Legal Mathematical Reasoning with LLMs: Procedural Alignment throughTwo-Stage Reinforcement Learning</strong><br>
       Kepu Zhang, Guofu Xie, <strong>Weijie Yu</strong><sup>†</sup>, Mingyue Xu, Xu Tang, Yaxin Li, Jun Xu<br>
@@ -43,7 +43,7 @@ permalink: /publications/
   </tr>
 
   <tr>
-    <td><strong>EMNLP 2025</strong></td>
+    <td><strong>EMNLP 2025 Findings</strong></td>
     <td>
       <strong>Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning</strong><br>
       Kepu Zhang, Haoyue Yang, Xu Tang, <strong>Weijie Yu</strong><sup>†</sup>, Jun Xu<br>
@@ -100,7 +100,7 @@ permalink: /publications/
 
 
   <tr>
-    <td><strong>ACL 2025</strong></td>
+    <td><strong>ACL 2025 Main</strong></td>
     <td>
       <strong>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</strong><br>
       Weicong Qin, Yi Xu, <strong>Weijie Yu</strong><sup>†</sup>, Chenglei Shen, Ming He<sup>†</sup>, Jianping Fan, Xiao Zhang, Jun Xu<br>
@@ -109,7 +109,7 @@ permalink: /publications/
   </tr>
 
   <tr>
-    <td><strong>ACL 2025</strong></td>
+    <td><strong>ACL 2025 Findings</strong></td>
     <td>
       <strong>CitaLaw: Enhancing LLM with Citations in Legal Domain</strong><br>
       Kepu Zhang, <strong>Weijie Yu</strong><sup>†</sup>, Sunhao Dai, Jun Xu<br>

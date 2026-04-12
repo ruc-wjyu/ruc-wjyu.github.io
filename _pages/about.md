@@ -43,6 +43,8 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <span class='anchor' id='-xl'></span>
 
 #  News
+- [04/2026] Two papers have been accepted by ACL 2026 Findings.
+- [04/2026] Three papers have been accepted by SIGIR 2026.
 - [08/2025] Three papers have been accepted by EMNLP 2025.
 - [08/2025] Three papers have been accepted by CIKM 2025.
 - [07/2025] Two papers have been accepted by RecSys 2025.
