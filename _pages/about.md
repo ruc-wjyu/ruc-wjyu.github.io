@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 1.2em; line-height: 1.6;">
 <p>
-Hi there! I am an assistant professor at School of Information Technology & Management, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Prof. Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Prof. Jun Xu</a>. Before that, I got the M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
+Hi there! I am an associate professor at School of Artificial Intelligence and Data Science, University of International Business and Economics. I received Ph.D. in Computer Science from Renmin University of China in 2023 advised by <a href="https://scholar.google.com/citations?user=tbxCHJgAAAAJ" target="_blank">Prof. Ji-Rong Wen</a> and <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ" target="_blank">Prof. Jun Xu</a>. Before that, I got the M.S. degree in Software Engineering from University of Science and Technology of China in 2018 and B.S. degree in Computer Science from Liaoning University in 2014.
 </p>
 
 <p>
-My research interests lie at Information Retrieval, Recommender System, and Legal Intelligence.
+My research interests lie at Information Retrieval, Large Language Models, and Legal Intelligence.
 <span style="color:#996600; font-weight: 600;">
 I am actively seeking self-motivated students for M.S. and intern positions. If you’re interested, please email me with your CV, thanks!
 </span>
@@ -43,6 +43,7 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <span class='anchor' id='-xl'></span>
 
 #  News
+- [05/2026] One paper has been accepted by ICML 2026.
 - [04/2026] Two papers have been accepted by ACL 2026 Findings.
 - [04/2026] Three papers have been accepted by SIGIR 2026.
 - [08/2025] Three papers have been accepted by EMNLP 2025.
