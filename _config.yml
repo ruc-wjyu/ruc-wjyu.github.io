@@ -26,7 +26,7 @@ author:
   # # 这样publications页面才能显示头像，不然就是静态主页展示
   # avatar:   "{{ '/images/avatar_new1.jpg' | relative_url }}"
 
-  bio              : "Assistant Professor at School of Information Technology & Management, University of International Business and Economics"
+  bio              : "Associate Professor at School of Artificial Intelligence and Data Science, University of International Business and Economics"
   location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
