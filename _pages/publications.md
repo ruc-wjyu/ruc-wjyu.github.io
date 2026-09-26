@@ -9,6 +9,22 @@ permalink: /publications/
 
 <table>
   <tr>
+    <td><strong>ACM TOIS</strong></td>
+    <td>
+      <strong>Generative Legal Document Retrieval in Multi-Law-Code Scenarios</strong><br>
+      Weicong Qin, Minyu Li, Yi Xu, <strong>Weijie Yu</strong>, Lifan Chen, Jun Xu, Ji-Rong Wen<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>EMNLP 2026</strong></td>
+    <td>
+      <strong>Llada-rec: Discrete diffusion for parallel semantic id generation in generative recommendation</strong><br>
+      Teng Shi, Chenglei Shen, <strong>Weijie Yu</strong><sup>†</sup>, Shen Nie, Chongxuan Li, Xiao Zhang, Ming He, Yan Han, Jun Xu<br>
+    </td>
+  </tr>
+
+  <tr>
     <td><strong>IPM</strong></td>
     <td>
       <strong>Empowering Open-Domain LLMs for Legal Document Correction via Legal Knowledge Integration and Decoding Constraints</strong><br>

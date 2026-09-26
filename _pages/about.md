@@ -43,20 +43,24 @@ I am actively seeking self-motivated students for M.S. and intern positions. If 
 <span class='anchor' id='-xl'></span>
 
 #  News
+- [09/2026] One paper has been accepted by ACM TOIS.
+- [08/2026] One paper has been accepted by EMNLP 2026.
 - [05/2026] One paper has been accepted by ICML 2026.
 - [04/2026] Two papers have been accepted by ACL 2026 Findings.
 - [04/2026] Three papers have been accepted by SIGIR 2026.
-- [08/2025] Three papers have been accepted by EMNLP 2025.
-- [08/2025] Three papers have been accepted by CIKM 2025.
-- [07/2025] Two papers have been accepted by RecSys 2025.
-- [05/2025] Two papers have been accepted by ACL 2025.
-
 
 <span class='anchor' id='-lwzl'></span>
 
 # Selected Publications
 
----     
+---  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/lladarec.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Teng Shi, Chenglei Shen, `Weijie Yu`<sup>†</sup>, Shen Nie, Chongxuan Li, Xiao Zhang, Ming He, Yan Han, Jun Xu. LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation (EMNLP 2026)
+[[Arxiv]](https://arxiv.org/abs/2511.06254) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/syler_model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Kepu Zhang, `Weijie Yu`<sup>†</sup>, Zhongxiang Sun, Jun Xu. SyLeR: A Framework for Explicit Syllogistic Legal Reasoning
